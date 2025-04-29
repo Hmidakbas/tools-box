@@ -1,1 +1,2 @@
 *.png filter=lfs diff=lfs merge=lfs -text
+IMG-20250429-WA0036.jpg filter=lfs diff=lfs merge=lfs -text
