@@ -1,1 +1,9 @@
 *.png filter=lfs diff=lfs merge=lfs -text
+IMG_0342.heic filter=lfs diff=lfs merge=lfs -text
+IMG_0344[[:space:]]2.heic filter=lfs diff=lfs merge=lfs -text
+IMG_0344.heic filter=lfs diff=lfs merge=lfs -text
+IMG_0349.heic filter=lfs diff=lfs merge=lfs -text
+IMG_0349.jpeg filter=lfs diff=lfs merge=lfs -text
+IMG_3709.HEIC filter=lfs diff=lfs merge=lfs -text
+IMG_3713.HEIC filter=lfs diff=lfs merge=lfs -text
+IMG_3715.jpeg filter=lfs diff=lfs merge=lfs -text
